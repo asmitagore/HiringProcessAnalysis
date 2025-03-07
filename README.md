@@ -1,6 +1,6 @@
 # **Hiring Process Analysis - Power BI Dashboard**
 
-![Dashboard Preview](insert_image_link_here)
+![Dashboard Preview](https://github.com/asmitagore/HiringProcessAnalysis/blob/main/Screenshot%202025-03-06%20194913.png?raw=true)
 
 ## **📌 Project Overview**
 This Power BI dashboard provides a detailed analysis of the hiring process, helping HR professionals and business leaders make data-driven decisions. It visualizes key hiring metrics such as total hires, rejections, hiring conversion rates, salary distributions, and gender-based hiring trends.
